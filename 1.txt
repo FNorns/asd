@@ -1,3 +1,4 @@
 main original
-line 2
+line main 2
 line branch 3
+line 4
