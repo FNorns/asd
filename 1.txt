@@ -1,4 +1,4 @@
-main main main original
+main main main branch original
 line main 2
 line branch 3
 line branch branch 4
