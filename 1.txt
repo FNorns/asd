@@ -1,4 +1,4 @@
 main main main main original
 line main 2
-line 3
+line main 3
 line 4
