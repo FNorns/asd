@@ -1,6 +1,6 @@
 main 1
-com.liba.main
+com.libb.main
 asdf
-com.liba.main
+com.libb.main
 asdggg
-com.liba.main
+com.libb.main
