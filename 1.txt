@@ -1,6 +1,6 @@
 main 1
-import com.liba.main
+com.liba.main
 asdf
-import com.liba.main
+com.liba.main
 asdggg
-import com.liba.main
+com.liba.main
