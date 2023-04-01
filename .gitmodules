@@ -1,0 +1,20 @@
+[submodule "bb"]
+	path = bb
+	url = https://github.com/FNorns/bb
+[submodule "f/bb"]
+	path = f/bb
+	url = https://github.com/FNorns/bb
+[submodule "g/1/2/3"]
+	path = g/1/2/3
+	url = https://github.com/FNorns/bb
+[submodule "hey"]
+	path = i/1/2/3
+	url = https://github.com/FNorns/bb
+[submodule "heo"]
+	path = 1/2
+	url = https://github.com/FNorns/branching.git
+	branch = branch-b
+[submodule "heu"]
+	path = eee
+	url = https://github.com/FNorns/branching.git
+	branch = branch-a
